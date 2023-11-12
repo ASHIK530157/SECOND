@@ -1,0 +1,373 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width:1480px;
+    height:550px;
+    background-color: rgba(206, 37, 74, 0.141);
+    position:relative;
+    border-bottom-left-radius:90px;
+    border-bottom-right-radius:90px;
+}
+.img{
+    height:450px;
+    width:350px;
+    position: absolute;
+    top:10%;
+    left:72%;
+    border-radius:70px;
+}
+.main-head{
+    font-size:65px;
+    padding:40px;
+    line-height:58px;
+    font-weight: 550;
+}
+.main-para{
+    margin-left:45px;
+    font-size:30px;
+    line-height:30px;
+    color:grey;
+}
+.btn{
+    width:200px;
+    height:75px;
+    margin-top:60px;
+    margin-left:40px;
+    border-radius:35px;
+    font-size:20px;
+    background-color:rgb(252, 75, 104);
+    color: white;
+}
+.btn:hover{
+    background:black;
+    border: 2px solid black;
+    transition:0.5s;
+}
+.our-featured{
+    margin:10px 10px 10px 10px;
+    position:relative;
+    margin-top:100px;
+}
+.second-head{
+    text-align: center;
+    font-size:35px;
+    font-weight:550;
+}
+.second-para{
+    text-align: center;
+    margin-top:15px;
+    font-size:20px;
+    font-weight:100;
+    color: gray;
+}
+.card1{
+    height:420px;
+    width:380px;
+    padding:15px;
+    border-radius:35px;
+    margin-left:30px;
+}
+.img1{
+    height:330px;
+    width:280px;
+    margin-left:85px;
+    border-top-right-radius:150px;
+    border-top-left-radius:150px;
+}
+.head1{
+    text-align: center;
+    font-size:28px;
+    font-weight:600;
+    margin-left:80px;
+}
+.card2{
+    height:420px;
+    width:380px;
+    padding:15px;
+    border-radius:35px;
+    margin-left:480px;
+    margin-top:-446px;
+}
+.img2{
+    height:330px;
+    width:280px;
+    margin-left:85px;
+    border-radius:15px;
+    border-top-right-radius:150px;
+    border-top-left-radius:150px;
+}
+.head2{
+    text-align: center;
+    font-size:28px;
+    font-weight:600;
+    margin-left:80px;
+}
+.card3{
+    height:310px;
+    width:380px;
+    padding:15px;
+    border-radius:35px;
+    margin-left:930px;
+    margin-top:-445px;
+}
+.img3{
+    height:330px;
+    width:280px;
+    margin-left:85px;
+    border-radius:15px;
+    border-top-right-radius:150px;
+    border-top-left-radius:150px;
+}
+.head3{
+    text-align: center;
+    font-size:28px;
+    font-weight:600;
+    margin-left:80px;
+}
+.our-services{
+    margin:10px 10px 10px 10px;
+    position:relative;
+    background-color:rgba(128, 128, 128, 0.059);
+    border-bottom-left-radius:50px;
+    border-bottom-right-radius:50px;
+    border-top-left-radius:50px;
+    border-top-right-radius:50px;
+    margin-left:50px;
+    margin-right:50px;
+    margin-top:150px;
+    width:1385px;
+}
+.card4{
+    height:310px;
+    width:380px;
+    padding:15px;
+    border-radius:35px;
+    margin-left:30px;
+    margin-top:80px;
+}
+.img4{
+    height:200px;
+    width:200px;
+    margin-left:130px;
+    margin-top:60px;
+    border-radius:15px;
+}
+.para1{
+    text-align: center;
+    font-size:28px;
+    font-weight:600;
+    margin-left:80px;
+}
+.card5{
+    height:300px;
+    width:380px;
+    padding:0px;
+    border-radius:35px;
+    margin-left:480px;
+    margin-top:-300px;
+}
+.img5{
+    height:200px;
+    width:200px;
+    margin-left:130px;
+    margin-top:60px;
+    border-radius:15px;
+}
+.para2{
+    text-align: center;
+    font-size:28px;
+    font-weight:600;
+    margin-left:80px;
+}
+.card6{
+    height:420px;
+    width:380px;
+    padding:15px;
+    border-radius:35px;
+    margin-left:870px;
+    margin-top:-310px;
+}
+.img6{
+    height:200px;
+    width:200px;
+    margin-left:130px;
+    margin-top:70px;
+    border-radius:15px;
+}
+.para3{
+    text-align: center;
+    font-size:28px;
+    font-weight:600;
+    margin-left:80px;
+}
+.sine-up{
+    background-color:rgba(255, 192, 203, 0.104);
+    width:1380px;
+    height:500px;
+    border-radius:70px;
+    position: relative;
+    margin-left:50px;
+}
+.sine-head{
+    font-size:60px;
+    padding:130px;
+    margin-left:-50px;
+}
+.sine-para{
+    font-size:20px;
+    color: gray;
+    margin-top:-120px;
+    margin-left:90px;
+}
+.sineup{
+    margin-top:-70px;
+}
+.sine-img{
+    height:380px;
+    width:350px;
+    margin-top:-1600px;
+    margin-left:950px;
+}
+.btn1{
+    width:200px;
+    height:75px;
+    margin-top:60px;
+    margin-left:360px;
+    border-radius:35px;
+    font-size:20px;
+    background-color:rgb(253, 60, 93);
+    color: rgb(255, 255, 255);  
+}
+.btn1:hover{
+    background:black;
+    border: 2px solid black;
+    transition:0.5s;
+}
+.instagram-head{
+    font-size:60px;
+    text-align: center;
+    margin-top:140px;
+    position: relative;
+}
+.instagram-para{
+    font-size:20px;
+    color: gray;
+    text-align: center;
+    margin-bottom:50px;
+}
+.img7{
+    width:280px;
+    height:300px;
+    padding:20px;
+    margin-right:10px;
+    margin-left:60px;
+    border-radius:70px;
+}
+.img8{
+    width:280px;
+    height:300px;
+    padding:20px;
+    border-radius:70px;
+}
+.img9{
+    width:280px;
+    height:300px;
+    padding:20px;
+    border-radius:70px;
+}
+.img10{
+    width:280px;
+    height:300px;
+    padding:20px;
+    border-radius:70px;
+}
+.img11{
+    width:1360px;
+    height:600px;
+    padding:70px;
+}
+.subscribe-head{
+    font-size:60px;
+    margin-top:-550px;
+    text-align: center;
+    color: white;
+}
+.subscribe-para{
+    font-size:20px;
+    text-align: center;
+    color: white;
+    line-height:70px;
+}
+.input-type-mail{
+    height:55px;
+    width:600px;
+    padding:5px; 
+    border-radius:30px;
+    font-size:18px;
+    text-align: center; 
+    position: relative;
+}
+.btn2{
+    width:185px;
+    height:70px;
+    border-radius:25px;
+    font-size:25px;
+    background-color:rgb(252, 75, 104);
+    color: white;
+}
+.btn2:hover{
+    background:black;
+    border: 2px solid black;
+    transition:0.5s;
+}
+.input-form{
+    margin-left:370px;
+    margin-top:70px;
+    position: relative;
+}
+footer{
+    background-color:black;
+    margin-top:250px;
+    margin-left:-10px;
+    width:1480px;
+    height:280px;
+    padding:0px;
+}
+.footer-head{
+    text-align: center;
+    font-size:50px;
+    font-weight:600;
+    color:rgb(249, 43, 77);
+    margin-left:-98px;
+}
+.footer-para{
+    text-align: center;
+    font-size:20px;
+    color: white;
+    margin-top:20px;
+}
+.footer-para1{
+    text-align:center;
+    font-size:16px;
+    margin-top:30px;
+    color: gray;
+}
+.icon{
+    font-size:30px;
+   text-align: center;
+   margin-top:40px;
+}
+.footer-head1{
+    text-align: center;
+    font-size:50px;
+    font-weight:600;
+    color: white;
+    margin-left:190px;
+    margin-top:-57px;
+}
+
+
+
+
